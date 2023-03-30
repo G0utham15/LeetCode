@@ -1,1 +1,3 @@
-./code_dev/*
+code_dev
+out/*
+.idea
