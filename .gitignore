@@ -1,3 +1,4 @@
 code_dev
 out/*
 .idea
+*.class
